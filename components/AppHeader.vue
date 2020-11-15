@@ -16,14 +16,6 @@
         </v-tabs>
       </template>
     </v-app-bar>
-    <v-sheet
-      id="scrolling-techniques-7"
-      class="overflow-y-auto"
-      max-height="600"
-    >
-      <v-container style="height: 1500px;">
-      </v-container>
-    </v-sheet>
   </v-card>
 </template>
 
